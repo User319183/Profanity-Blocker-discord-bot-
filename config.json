@@ -1,0 +1,42 @@
+{
+    "Token": "BOT_TOKEN",
+ 
+    "Staff": [
+        123
+    ],
+ 
+    "Owner": [
+        123
+    ],
+ 
+    "userbanned": [
+        123
+    ],
+ 
+    "serverbanned": [
+        123
+    ],
+
+    "basic_premium": [
+        123
+    ],
+
+    "supreme_premium":[
+        123
+    ],
+
+
+
+
+
+
+    "extreme_premium":[
+        123
+    ]
+
+
+
+
+
+
+}
